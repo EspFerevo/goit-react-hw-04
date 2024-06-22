@@ -3,7 +3,7 @@ import css from "./ImageGallery.module.css";
 
 const ImageGallery = ({ images, onImageClick }) => {
   return (
-    <ul className={css.imageList}>
+    <ul className={css.itemList}>
       {images.map((item) => (
         <li key={item.id}>
           <ImageCard

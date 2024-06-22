@@ -1,15 +1,14 @@
 .header {
   display: flex;
   justify-content: center;
-
   margin-bottom: 10px;
 }
 
 .form {
   display: flex;
-
   align-items: center;
   width: 350px;
+
   margin-bottom: 50px;
   margin-top: 50px;
   max-width: 600px;
