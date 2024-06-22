@@ -1,15 +1,17 @@
 .header {
   display: flex;
   justify-content: center;
-  padding: 20px;
-  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-  margin-bottom: 20px;
+
+  margin-bottom: 10px;
 }
 
 .form {
   display: flex;
+
   align-items: center;
-  width: 100%;
+  width: 350px;
+  margin-bottom: 50px;
+  margin-top: 50px;
   max-width: 600px;
   background-color: #fff;
   border-radius: 30px;
